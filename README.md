@@ -6,8 +6,6 @@ Landing page showcasing my embedded systems, hardware, and firmware projects.
 
 ## About
 
-A single self-contained `index.html` (no build step, no dependencies) that
-showcases my projects across two areas:
 
 **Hardware & PCB Design**
 - [EV Accumulator Charging System](https://github.com/Nat-Su-lemon/Cornell-Racing-ARG26-Charging-System) — Cornell Racing ARG26 charger, high-voltage distribution and safety interlocks
@@ -19,7 +17,3 @@ showcases my projects across two areas:
 - [BirdNET Clustering Tool](https://github.com/Nat-Su-lemon/BirdNET_Clustering) — UMAP + HDBSCAN clustering of bioacoustic embeddings
 - [Raspberry Pi USB / TCP UART Bridge](https://github.com/Nat-Su-lemon/Raspi-UART--Bridge) — serial-over-USB-gadget and TCP bridge
 
-## Hosting
-
-Served with GitHub Pages from the `main` branch (root). To run locally, just
-open `index.html` in a browser.
